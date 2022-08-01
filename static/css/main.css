@@ -1,0 +1,156 @@
+body {
+  background: #fafafa;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.bg-steel {
+  background-color: #c6ccd1;
+}
+
+.site-header .navbar-nav .nav-link  {
+  color: #f5f2f0;
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.logo-img {
+  width: 175px;
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.37rem;
+}
+ .card {
+  display: flex;
+  flex: 1 0 0%;
+  flex-direction: column;
+  margin-right: 10px;
+  margin-bottom: 0;
+  margin-left: 10px;
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+.mx-auto {
+  margin-right: auto !important;
+}
+.mx-auto {
+  margin-left: auto !important;
+}
+
+#folder_path_container{
+    height: auto;
+    border: 1px black solid;
+    display: grid;
+
+    /* background-color: yellow; */
+}
+/* #top{
+  position: fixed;
+} */
+
+#LeftContent{
+  float:left;
+  margin-top: 10px;
+}
+div.scroll {
+
+  padding:2px;
+  /* background-color: green; */
+  width: 200px;
+  height: 250px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+}
+div.Rightscroll {
+  padding:2px;
+  /* background-color: green; */
+  height: 250px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+}
+
+.top, label{
+    padding: 5px;
+}
+#folderButton{
+  width: 100px;
+  cursor:pointer;
+  border-color:#5953ec;
+  /* border-color: #008CBA; */
+  border-style:solid;
+  
+}
+#folderButton:hover {
+  background-color: #008CBA;
+  color: white;
+}
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}

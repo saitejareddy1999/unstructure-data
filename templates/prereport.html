@@ -1,0 +1,111 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container center">
+    <div class="content-section">        
+    <fieldset class="form-group">
+        {% if rowdata.optProc == 'Separate' %}
+        <legend class="border-bottom mb-4">Separation Completed</legend>
+        {% else %}
+        <legend class="border-bottom mb-4">Reports - Confirm to Delete </legend>
+        {% endif %}
+        <div class="panel panel-default">
+               <div class="panel-body">
+               <span id="success_message"></span>
+               <form method="post" id="stub_confirm_form">
+            <div class="col-md-8">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">#</th>
+                      <th scope="col">Action / Items</th>
+                      <th scope="col">Found</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>Selected Path</td>
+                      <td>{{ rowdata.FolderPath }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>Process</td>
+                      <td>{{ rowdata.optProc }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                        <td><strong>Archive Stubs Folders</strong> Found </td>
+                      <td>{{ rowdata.Archived_Stubs_Folders }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                        <td><strong>Archive Stubs Files</strong> Found </td>
+                      <td>{{ rowdata.Stub_Files }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                        <td><strong>Stale Data - Read Me Files</strong> Found  </td>
+                      <td>{{ rowdata.ReadMe_Files }}</td>
+                    </tr>
+                      <tr>
+                      <th scope="row">3</th>
+                      <td>Time Complexity  </td>
+                      
+                      <td>{{ rowdata.noSubFolders1 }} {{ rowdata.ptime }}</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <input type="hidden" name="folderPath" value="{{rowdata.FolderPath}}">
+                <input type="hidden" name="optProc" value="{{rowdata.optProc}}">
+                <input type="hidden" name="Archived_Stubs_Folders" value="{{rowdata.Archived_Stubs_Folders}}">
+                <input type="hidden" name="Stub_Files" value="{{rowdata.Stub_Files}}">
+                <input type="hidden" name="ReadMe_Files" value="{{rowdata.ReadMe_Files}}">
+                <input type="hidden" name="noSubFolders" value="{{rowdata.noSubFolders}}">
+                
+                
+                   </div>
+                
+                   <div class="clearfix"></div>
+                   {% if rowdata.ReadMe_Files == 0 and rowdata.Stub_Files == 0 and rowdata.Archived_Stubs_Folders == 0 %}
+                   <div class="form-group col-md-6" align="center">
+                       
+                       
+                       <div class="alert alert-info">No Stubs file or Stale data found in this directory</div>
+                       <a href={{ url_for('index') }} class="btn btn-primary" id="Cancel">Back to home</a>
+                       
+                   </div>
+                   {% else %}
+                   <div class="form-group col-md-8" align="center">
+                      {% if rowdata.optProc == 'Separate' %}
+                       <div class="alert alert-success">Seperation Process has been completed successfully</div>
+                       <a href={{ url_for('index') }} class="btn btn-primary" id="Cancel">Back to home</a>
+                       {% elif rowdata.optProc != 'Separate' %}
+                       <div class="form-group col-md-6" align="right">
+                       <input type="submit" name="Confirm" id="Confirm" class="btn btn-success" value="Yes, Confirm To Delete" />
+                       </div>
+                       <div class="form-group col-md-2" align="right">
+                       <a href={{ url_for('index') }} class="btn btn-primary" id="Cancel">No, Cancel</a>
+                       </div>
+                       {% else %}
+                       <a href={{ url_for('index') }} class="btn btn-primary" id="Cancel">Back to home</a>
+                       {% endif %}
+                   </div>
+                   {% endif %}
+               </form>
+                   
+                   <div class="clearfix"></div>
+                   <span id="success_message_confirm"></span>
+                   
+               <div class="form-group" id="process" style="display:none;">
+                  <div class="progress">
+                   <div class="progress-bar progress-bar-striped active bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" style=""></div>
+                  </div>
+               </div>
+                   
+              </div>
+        </div> 
+
+    </fieldset>
+    </div>
+</div>
+{% endblock content %}

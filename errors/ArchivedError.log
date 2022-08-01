@@ -1,0 +1,1029 @@
+2021-10-27 16:25:02,425 INFO werkzeug 127.0.0.1 - - [27/Oct/2021 16:25:02] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-10-27 17:48:16,770 INFO werkzeug 127.0.0.1 - - [27/Oct/2021 17:48:16] "GET / HTTP/1.1" 200 -
+2021-10-27 17:48:39,236 INFO werkzeug 127.0.0.1 - - [27/Oct/2021 17:48:39] "GET /main.css HTTP/1.1" 200 -
+2021-10-27 17:48:39,935 INFO werkzeug 127.0.0.1 - - [27/Oct/2021 17:48:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-27 17:55:41,472 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-11-02 12:11:25,626 INFO werkzeug 127.0.0.1 - - [02/Nov/2021 12:11:25] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-11-12 16:39:28,297 INFO werkzeug 127.0.0.1 - - [12/Nov/2021 16:39:28] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-11-12 21:55:47,610 INFO werkzeug 127.0.0.1 - - [12/Nov/2021 21:55:47] "GET / HTTP/1.1" 200 -
+2021-11-12 21:55:48,113 INFO werkzeug 127.0.0.1 - - [12/Nov/2021 21:55:48] "GET /main.css HTTP/1.1" 200 -
+2021-11-12 21:55:49,277 INFO werkzeug 127.0.0.1 - - [12/Nov/2021 21:55:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-11-30 22:42:26,608 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 22:42:26] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-11-30 22:49:57,406 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-11-30 22:53:13,070 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 22:53:13] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2021-11-30 22:54:53,436 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-11-30 22:58:57,168 ERROR stubs 2016_ARCHIVE STUBCONFIDENTIALL Tax Response.urlI/O operation on closed file.
+2021-11-30 22:58:57,254 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 22:58:57] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2021-11-30 23:01:01,466 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-11-30 23:01:35,428 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 23:01:35] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-11-30 23:02:39,897 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 23:02:39] "GET / HTTP/1.1" 200 -
+2021-11-30 23:02:39,984 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 23:02:39] "GET /main.css HTTP/1.1" 200 -
+2021-11-30 23:02:43,787 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 23:02:43] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2021-11-30 23:03:47,682 INFO werkzeug 127.0.0.1 - - [30/Nov/2021 23:03:47] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-01 15:55:23,066 INFO werkzeug 127.0.0.1 - - [01/Dec/2021 15:55:23] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-01 16:09:47,528 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-12-06 16:22:13,101 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 16:22:13] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-06 19:08:00,305 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 19:08:00] "[33mGET /login HTTP/1.1[0m" 404 -
+2021-12-06 19:08:02,412 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 19:08:02] "[33mGET /login HTTP/1.1[0m" 404 -
+2021-12-06 19:08:03,169 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 19:08:03] "[33mGET /login HTTP/1.1[0m" 404 -
+2021-12-06 19:12:31,418 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-06 19:19:47,946 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 19:19:47] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-06 19:19:54,041 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 19:19:54] "POST /counter HTTP/1.1" 200 -
+2021-12-06 20:07:02,346 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-06 20:09:23,832 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 20:09:23] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-06 20:09:29,904 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 20:09:29] "POST /counter HTTP/1.1" 200 -
+2021-12-06 20:09:57,570 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-06 20:10:57,947 INFO werkzeug 127.0.0.1 - - [06/Dec/2021 20:10:57] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-06 20:11:37,858 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 11:59:35,106 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 11:59:35] "GET / HTTP/1.1" 200 -
+2021-12-07 11:59:35,261 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 11:59:35] "GET /main.css HTTP/1.1" 200 -
+2021-12-07 11:59:48,626 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 11:59:48] "GET / HTTP/1.1" 200 -
+2021-12-07 11:59:48,783 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 11:59:48] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-07 12:00:03,639 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:00:03] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2021-12-07 12:00:13,953 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 12:01:13,393 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:01:13] "GET / HTTP/1.1" 200 -
+2021-12-07 12:01:13,526 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:01:13] "GET /main.css HTTP/1.1" 200 -
+2021-12-07 12:01:14,055 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:01:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-12-07 12:02:26,016 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 12:07:30,870 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 12:17:21,715 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:17:21] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 12:17:43,492 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 12:17:43] "POST /counter HTTP/1.1" 200 -
+2021-12-07 12:20:07,506 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-12-07 13:54:56,994 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:54:56] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 13:55:03,190 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:55:03] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2021-12-07 13:55:03,475 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:55:03] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-12-07 13:55:03,476 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:55:03] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-12-07 13:55:03,606 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:55:03] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 13:55:03,616 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:55:03] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 13:55:24,901 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 13:57:29,597 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:29] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 13:57:35,931 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:35] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2021-12-07 13:57:36,471 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:36] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-12-07 13:57:36,536 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:36] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-12-07 13:57:36,681 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:36] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 13:57:36,688 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:57:36] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 13:58:55,256 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 13:58:55] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 14:00:02,033 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 14:01:21,081 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:21] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 14:01:27,265 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:27] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2021-12-07 14:01:27,496 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:27] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-12-07 14:01:27,503 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:27] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-12-07 14:01:27,607 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:27] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 14:01:27,726 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:01:27] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-12-07 14:02:07,516 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 14:06:46,972 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:06:46] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 14:07:03,276 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:07:03] "POST /counter HTTP/1.1" 200 -
+2021-12-07 14:08:05,132 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:08:05] "POST /counter HTTP/1.1" 200 -
+2021-12-07 14:08:45,604 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-07 14:09:56,502 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:09:56] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 14:10:05,434 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:10:05] "POST /counter HTTP/1.1" 200 -
+2021-12-07 14:12:20,512 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2021-12-07 14:13:59,929 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:13:59] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-07 14:14:11,807 INFO werkzeug 127.0.0.1 - - [07/Dec/2021 14:14:11] "POST /counter HTTP/1.1" 200 -
+2021-12-07 14:14:35,752 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-17 15:13:00,991 INFO werkzeug 127.0.0.1 - - [17/Dec/2021 15:13:00] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-17 15:13:07,104 INFO werkzeug 127.0.0.1 - - [17/Dec/2021 15:13:07] "POST /counter HTTP/1.1" 200 -
+2021-12-17 15:13:07,192 INFO werkzeug 127.0.0.1 - - [17/Dec/2021 15:13:07] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-17 20:10:01,016 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2021-12-21 14:54:21,307 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 14:54:21] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2021-12-21 14:54:27,390 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 14:54:27] "POST /counter HTTP/1.1" 200 -
+2021-12-21 14:54:27,538 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 14:54:27] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-21 14:54:27,574 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 14:54:27] "GET /logo/zurich.png HTTP/1.1" 200 -
+2021-12-21 14:54:27,814 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 14:54:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-12-21 15:31:38,069 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:31:38] "GET / HTTP/1.1" 200 -
+2021-12-21 15:31:38,521 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:31:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-21 15:31:38,569 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:31:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2021-12-21 15:31:42,588 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:31:42] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2021-12-21 15:39:38,111 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:38] "GET / HTTP/1.1" 200 -
+2021-12-21 15:39:38,229 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-21 15:39:38,241 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2021-12-21 15:39:41,727 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:41] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2021-12-21 15:39:47,409 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:47] "GET / HTTP/1.1" 200 -
+2021-12-21 15:39:47,515 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:47] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2021-12-21 15:39:47,527 INFO werkzeug 127.0.0.1 - - [21/Dec/2021 15:39:47] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-03 16:35:32,967 INFO werkzeug 127.0.0.1 - - [03/Jan/2022 16:35:32] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-03 16:35:39,169 INFO werkzeug 127.0.0.1 - - [03/Jan/2022 16:35:39] "POST /counter HTTP/1.1" 200 -
+2022-01-03 16:35:39,338 INFO werkzeug 127.0.0.1 - - [03/Jan/2022 16:35:39] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-03 16:35:39,355 INFO werkzeug 127.0.0.1 - - [03/Jan/2022 16:35:39] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-10 17:03:34,981 INFO werkzeug 127.0.0.1 - - [10/Jan/2022 17:03:34] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-10 17:03:41,204 INFO werkzeug 127.0.0.1 - - [10/Jan/2022 17:03:41] "POST /counter HTTP/1.1" 200 -
+2022-01-10 17:03:41,559 INFO werkzeug 127.0.0.1 - - [10/Jan/2022 17:03:41] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-10 17:03:41,626 INFO werkzeug 127.0.0.1 - - [10/Jan/2022 17:03:41] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 17:36:03,940 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 17:36:03] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 17:36:10,003 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 17:36:10] "POST /counter HTTP/1.1" 200 -
+2022-01-17 17:36:10,212 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 17:36:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 17:36:10,259 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 17:36:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 19:26:20,995 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 19:53:33,166 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:53:33] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 19:54:01,467 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:54:01] "GET / HTTP/1.1" 200 -
+2022-01-17 19:54:02,591 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:54:02] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 19:54:02,600 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:54:02] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 19:55:19,491 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:55:19] "GET / HTTP/1.1" 200 -
+2022-01-17 19:55:19,603 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:55:19] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 19:55:19,614 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 19:55:19] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:03:09,423 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:03:09] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 20:03:15,723 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:03:15] "POST /counter HTTP/1.1" 200 -
+2022-01-17 20:03:16,378 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:03:16] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 20:03:16,502 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:03:16] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:03:20,885 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:03:20] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:06:50,397 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:07:45,127 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:07:45] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 20:07:51,202 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:07:51] "POST /counter HTTP/1.1" 200 -
+2022-01-17 20:07:51,395 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:07:51] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 20:07:51,421 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:07:51] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:08:00,558 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:08:00] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:16:21,708 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-17 20:39:42,404 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:39:42] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 20:39:48,486 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:39:48] "POST /counter HTTP/1.1" 200 -
+2022-01-17 20:39:49,563 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:39:49] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 20:39:49,574 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:39:49] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:39:53,111 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:39:53] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:40:08,131 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:40:08] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:40:34,172 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:40:34] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:42:08,582 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-17 20:42:26,835 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:42:26] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:42:53,335 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:42:56,502 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:42:56] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:43:34,089 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:43:37,296 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:43:37] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:44:00,886 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:44:04,076 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:44:04] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:44:12,521 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:44:12] "POST /counter HTTP/1.1" 200 -
+2022-01-17 20:44:14,227 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:44:14] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 20:44:14,237 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:44:14] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:44:17,357 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:44:17] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:44:59,471 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-17 20:45:05,492 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:45:05] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:45:39,121 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:45:48,077 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:45:48] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:46:18,671 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:46:29,350 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:46:29] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:46:54,164 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:46:54] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:47:36,450 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:47:44,231 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:47:44] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:48:35,504 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:48:50,837 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:48:50] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:49:19,076 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:49:26,158 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:49:26] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:50:25,232 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:50:34,466 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:50:34] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:51:51,159 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:52:01,056 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:52:01] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 20:53:13,494 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:53:23,666 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:53:23] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 20:54:14,352 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:54:23,343 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:54:23] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 20:55:17,247 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 20:57:27,661 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:57:27] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 20:57:33,833 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:57:33] "POST /counter HTTP/1.1" 200 -
+2022-01-17 20:57:34,173 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:57:34] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 20:57:34,250 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:57:34] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 20:58:35,834 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 20:58:35] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:00:57,689 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:01:35,905 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:01:35] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:02:42,062 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:03:14,807 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:03:14] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:03:40,823 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:03:49,983 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:03:49] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:06:23,770 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:06:52,898 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:06:52] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:07:53,752 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:08:02,274 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:08:02] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:08:26,502 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:08:47,726 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:08:47] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:08:57,814 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:13:12,724 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:13:12] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 21:13:18,911 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:13:18] "POST /counter HTTP/1.1" 200 -
+2022-01-17 21:13:19,220 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:13:19] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:13:19,232 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:13:19] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:14:33,343 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:14:33] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 21:15:25,579 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:15:53,939 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:15:53] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:16:49,919 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:16:49] "GET / HTTP/1.1" 200 -
+2022-01-17 21:16:50,291 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:16:50] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:16:50,316 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:16:50] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:17:02,549 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:02] "POST /opendialog HTTP/1.1" 200 -
+2022-01-17 21:17:07,099 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:07] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 21:17:13,293 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:13] "POST /counter HTTP/1.1" 200 -
+2022-01-17 21:17:13,737 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:13] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:17:13,802 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:17:17,579 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:17:17] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 21:22:39,820 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:22:55,388 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:22:55] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:23:34,150 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:34] "GET / HTTP/1.1" 200 -
+2022-01-17 21:23:34,587 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:34] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:23:34,610 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:34] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:23:47,188 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:47] "POST /opendialog HTTP/1.1" 200 -
+2022-01-17 21:23:51,440 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:51] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 21:23:57,621 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:57] "POST /counter HTTP/1.1" 200 -
+2022-01-17 21:23:57,914 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:57] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:23:57,938 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:23:57] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:24:02,521 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:24:02] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 21:25:12,179 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:27:44,823 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:27:44] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 21:27:51,000 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:27:51] "POST /counter HTTP/1.1" 200 -
+2022-01-17 21:27:51,396 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:27:51] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:27:51,409 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:27:51] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:27:53,438 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:27:53] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-17 21:29:04,307 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:29:13,716 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:29:13] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:29:43,647 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:29:43] "POST /counter HTTP/1.1" 200 -
+2022-01-17 21:29:43,802 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:29:43] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 21:29:43,856 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:29:43] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 21:29:47,775 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:29:47] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:30:34,088 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:31:37,596 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:31:37] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 21:33:51,304 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 21:34:53,231 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 21:34:53] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-17 22:11:08,965 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-17 22:12:03,722 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 22:12:03] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-17 22:12:09,864 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 22:12:09] "POST /counter HTTP/1.1" 200 -
+2022-01-17 22:12:10,157 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 22:12:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-17 22:12:10,227 INFO werkzeug 127.0.0.1 - - [17/Jan/2022 22:12:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-17 22:13:17,016 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 15:01:32,405 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:01:32] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 15:01:38,530 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:01:38] "POST /counter HTTP/1.1" 200 -
+2022-01-18 15:01:38,826 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:01:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 15:01:38,835 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:01:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 15:10:39,660 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 15:13:37,442 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:13:37] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 15:13:43,641 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:13:43] "POST /counter HTTP/1.1" 200 -
+2022-01-18 15:13:43,897 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:13:43] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 15:13:43,908 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:13:43] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 15:15:48,732 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 15:39:26,150 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:39:26] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 15:39:32,285 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:39:32] "POST /counter HTTP/1.1" 200 -
+2022-01-18 15:39:32,542 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:39:32] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 15:39:32,550 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 15:39:32] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:21:07,655 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 17:21:35,371 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:21:35] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 17:21:41,508 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:21:41] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:21:41,725 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:21:41] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:21:41,750 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:21:41] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:22:17,105 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:17] "GET / HTTP/1.1" 200 -
+2022-01-18 17:22:17,442 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:17] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:22:17,456 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:17] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:22:21,111 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:21] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-18 17:22:24,003 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:24] "GET / HTTP/1.1" 200 -
+2022-01-18 17:22:24,170 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:24] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:22:24,188 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:24] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:22:28,003 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:22:28] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-18 17:24:18,853 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:24:18] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 17:24:25,035 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:24:25] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:24:25,299 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:24:25] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:24:25,309 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:24:25] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:28:16,327 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:28:16] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:28:16,614 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:28:16] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:28:16,660 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:28:16] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:40:32,986 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:32] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2022-01-18 17:40:33,367 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:33] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-01-18 17:40:33,390 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:33] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-01-18 17:40:33,513 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:33] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-18 17:40:33,742 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:33] "GET /counter?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-01-18 17:40:52,190 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:52] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:40:52,378 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:52] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:40:52,539 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:40:52] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:41:40,669 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:41:40] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:41:40,833 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:41:40] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:41:40,843 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:41:40] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:42:18,275 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:42:18] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:42:18,414 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:42:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:42:18,445 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:42:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:43:59,225 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:43:59] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:43:59,542 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:43:59] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:43:59,553 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:43:59] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:44:03,580 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:44:03] "GET / HTTP/1.1" 200 -
+2022-01-18 17:44:03,867 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:44:03] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:44:03,888 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:44:03] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:44:07,528 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:44:07] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-18 17:45:58,372 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-18 17:54:55,825 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:54:55] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 17:55:01,996 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:55:01] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:55:02,261 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:55:02] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:55:02,272 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:55:02] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:55:18,037 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:55:18] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-18 17:56:26,529 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 17:57:33,356 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:57:33] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-18 17:57:59,185 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-18 17:58:17,819 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:58:17] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 17:58:24,003 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:58:24] "POST /counter HTTP/1.1" 200 -
+2022-01-18 17:58:24,547 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:58:24] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 17:58:24,568 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:58:24] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 17:58:56,800 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 17:58:56] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 19:15:02,168 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:15:02] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:15:02,471 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:15:02] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 19:15:02,998 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:15:02] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 19:15:03,801 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:15:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-01-18 19:15:08,972 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:15:08] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 19:17:03,441 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:03] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:17:03,732 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:03] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 19:17:03,744 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:03] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 19:17:07,502 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:07] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2022-01-18 19:17:07,756 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:07] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-01-18 19:17:07,757 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:07] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-01-18 19:17:07,929 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:07] "GET /counter?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-01-18 19:17:07,960 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:17:07] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-18 19:34:03,456 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:34:03] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2022-01-18 19:34:03,885 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:34:03] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-01-18 19:34:03,905 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:34:03] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-01-18 19:34:04,410 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:34:04] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-18 19:36:04,700 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:36:04] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:36:09,207 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:36:09] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:36:09,348 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:36:09] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 19:36:09,358 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:36:09] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 19:36:11,944 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:36:11] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 19:38:06,150 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:38:06] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:38:06,515 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:38:06] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 19:38:06,560 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:38:06] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 19:38:10,355 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:38:10] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 19:39:41,846 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:39:41] "POST /counter HTTP/1.1" 200 -
+2022-01-18 19:39:42,134 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:39:42] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 19:39:42,152 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:39:42] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 19:39:44,830 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 19:39:44] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 20:08:37,563 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 20:08:37] "POST /counter HTTP/1.1" 200 -
+2022-01-18 20:08:37,698 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 20:08:37] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 20:08:37,800 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 20:08:37] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 20:08:49,585 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 20:08:49] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 21:06:25,534 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:06:25] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 21:06:31,676 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:06:31] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:06:31,879 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:06:31] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:06:31,932 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:06:31] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:33:48,810 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:33:48] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:33:48,923 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:33:48] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:33:48,960 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:33:48] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:33:50,094 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:33:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-01-18 21:34:22,301 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:34:22] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:34:22,449 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:34:22] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:34:22,461 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:34:22] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:35:34,079 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:35:34] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:35:34,192 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:35:34] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:35:34,212 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:35:34] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:36:10,280 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:36:10] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:36:10,388 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:36:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:36:10,399 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:36:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:37:20,406 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:37:20] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 21:37:26,453 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:37:26] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:37:26,577 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:37:26] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:37:26,617 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:37:26] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:39:37,116 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:39:37] "GET / HTTP/1.1" 200 -
+2022-01-18 21:39:37,268 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:39:37] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:39:37,289 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:39:37] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:39:41,293 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:39:41] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-18 21:40:54,304 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:40:54] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 21:41:00,371 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:41:00] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:41:00,509 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:41:00] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:41:00,538 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:41:00] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:41:11,095 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:41:11] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 21:46:58,263 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:46:58] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:46:58,391 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:46:58] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:46:58,412 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:46:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:47:45,417 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:45] "POST /counter HTTP/1.1" 200 -
+2022-01-18 21:47:45,530 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:45] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:47:45,540 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:45] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:47:49,421 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:49] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2022-01-18 21:47:49,763 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:49] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-01-18 21:47:49,773 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:49] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-01-18 21:47:49,875 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:49] "GET /counter?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-01-18 21:47:49,893 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:47:49] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-18 21:48:00,693 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:00] "GET / HTTP/1.1" 200 -
+2022-01-18 21:48:00,824 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:00] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:48:00,844 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:00] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 21:48:42,368 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:42] "GET / HTTP/1.1" 200 -
+2022-01-18 21:48:42,461 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:42] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 21:48:42,492 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 21:48:42] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:33:37,919 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:33:37] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 22:33:43,984 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:33:43] "POST /counter HTTP/1.1" 200 -
+2022-01-18 22:33:44,161 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:33:44] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:33:44,174 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:33:44] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:33:54,546 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:33:54] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 22:38:29,955 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:29] "POST /counter HTTP/1.1" 200 -
+2022-01-18 22:38:30,040 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:30] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:38:30,072 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:30] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:38:32,184 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:32] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 22:38:43,692 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:43] "GET / HTTP/1.1" 200 -
+2022-01-18 22:38:43,924 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:43] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:38:43,937 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:38:43] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:43:17,671 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:17] "GET / HTTP/1.1" 200 -
+2022-01-18 22:43:17,781 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:17] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:43:17,813 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:17] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:43:21,769 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:21] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-18 22:43:51,332 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:51] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-18 22:43:57,407 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:57] "POST /counter HTTP/1.1" 200 -
+2022-01-18 22:43:57,537 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:57] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:43:57,550 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:43:57] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:44:28,824 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:44:28] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-18 22:44:39,274 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:44:39] "GET / HTTP/1.1" 200 -
+2022-01-18 22:44:39,459 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:44:39] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-18 22:44:39,482 INFO werkzeug 127.0.0.1 - - [18/Jan/2022 22:44:39] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-18 22:45:32,901 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 13:37:48,468 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:48] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 13:37:54,586 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:54] "POST /counter HTTP/1.1" 200 -
+2022-01-19 13:37:54,704 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:54] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:37:54,721 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:54] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:37:58,521 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:58] "GET / HTTP/1.1" 200 -
+2022-01-19 13:37:58,631 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:58] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:37:58,649 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:37:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:38:01,899 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:38:01] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 13:39:17,233 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:39:17] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 13:39:23,328 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:39:23] "POST /counter HTTP/1.1" 200 -
+2022-01-19 13:39:23,452 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:39:23] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:39:23,472 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:39:23] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:40:13,528 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:13] "GET / HTTP/1.1" 200 -
+2022-01-19 13:40:13,656 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:13] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:40:13,674 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:40:16,088 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:16] "GET / HTTP/1.1" 200 -
+2022-01-19 13:40:16,172 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:16] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:40:16,184 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:16] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:40:19,939 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:19] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 13:40:47,743 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:47] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 13:40:53,806 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:53] "POST /counter HTTP/1.1" 200 -
+2022-01-19 13:40:53,926 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:53] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 13:40:53,989 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 13:40:53] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 13:43:36,531 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 15:11:31,545 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:11:31] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 15:11:37,724 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:11:37] "POST /counter HTTP/1.1" 200 -
+2022-01-19 15:11:38,035 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:11:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 15:11:38,103 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:11:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 15:15:21,789 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:15:21] "GET / HTTP/1.1" 200 -
+2022-01-19 15:15:21,945 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:15:21] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 15:15:22,147 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:15:22] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 15:21:10,625 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:21:10] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 15:21:16,724 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:21:16] "POST /counter HTTP/1.1" 200 -
+2022-01-19 15:21:16,985 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:21:16] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 15:21:17,004 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:21:17] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 15:21:45,330 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:21:45] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-19 15:24:03,773 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:24:03] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 15:24:09,928 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:24:09] "POST /counter HTTP/1.1" 200 -
+2022-01-19 15:24:10,190 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:24:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 15:24:10,223 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:24:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 15:24:17,242 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:24:17] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-19 15:28:00,001 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:28:00] "GET / HTTP/1.1" 200 -
+2022-01-19 15:28:00,361 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:28:00] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 15:28:00,400 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 15:28:00] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 16:20:19,156 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 16:22:09,491 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:22:09] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 16:22:15,629 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:22:15] "POST /counter HTTP/1.1" 200 -
+2022-01-19 16:22:15,786 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:22:15] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 16:22:15,818 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:22:15] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 16:23:24,775 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 16:23:56,413 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:23:56] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 16:24:02,476 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:02] "POST /counter HTTP/1.1" 200 -
+2022-01-19 16:24:02,593 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:02] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 16:24:02,617 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:02] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 16:24:53,647 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:53] "GET / HTTP/1.1" 200 -
+2022-01-19 16:24:53,743 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:53] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 16:24:53,755 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:53] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 16:24:57,806 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 16:24:57] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 17:57:55,426 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 17:57:55] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 17:58:01,500 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 17:58:01] "POST /counter HTTP/1.1" 200 -
+2022-01-19 17:58:01,654 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 17:58:01] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 17:58:01,666 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 17:58:01] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:02:48,677 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 18:03:58,925 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:03:58] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 18:04:04,995 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:04:04] "POST /counter HTTP/1.1" 200 -
+2022-01-19 18:04:05,129 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:04:05] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:04:05,142 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:04:05] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:13:23,023 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:13:23] "GET / HTTP/1.1" 200 -
+2022-01-19 18:13:23,173 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:13:23] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:13:23,212 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:13:23] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:13:27,494 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:13:27] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 18:14:05,344 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:14:05] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 18:14:11,398 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:14:11] "POST /counter HTTP/1.1" 200 -
+2022-01-19 18:14:11,511 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:14:11] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:14:11,527 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:14:11] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:22:14,187 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 18:25:42,645 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:25:42] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 18:26:43,058 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 18:27:08,044 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:27:08] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 18:27:14,119 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:27:14] "POST /counter HTTP/1.1" 200 -
+2022-01-19 18:27:14,267 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:27:14] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:27:14,291 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:27:14] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:28:58,636 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:28:58] "POST /counter HTTP/1.1" 200 -
+2022-01-19 18:28:58,744 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:28:58] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:28:58,761 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:28:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:35:13,367 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 18:40:12,427 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:40:12] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 18:40:18,499 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:40:18] "POST /counter HTTP/1.1" 200 -
+2022-01-19 18:40:18,609 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:40:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 18:40:18,639 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 18:40:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 18:54:46,674 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:21:07,187 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:21:07] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 19:21:13,265 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:21:13] "POST /counter HTTP/1.1" 200 -
+2022-01-19 19:21:13,435 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:21:13] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 19:21:13,450 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:21:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 19:21:29,186 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:21:53,548 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:21:53] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 19:22:50,048 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:23:27,263 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:23:27] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 19:25:38,599 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:25:54,793 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:25:54] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 19:26:00,889 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:26:00] "POST /counter HTTP/1.1" 200 -
+2022-01-19 19:26:01,065 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:26:01] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 19:26:01,082 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:26:01] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 19:29:33,827 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:30:12,406 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:30:12] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 19:30:18,471 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:30:18] "POST /counter HTTP/1.1" 200 -
+2022-01-19 19:30:18,583 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:30:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 19:30:18,600 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:30:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 19:30:51,005 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:31:10,611 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:31:10] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 19:34:40,892 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:35:24,537 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:35:24] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 19:35:30,596 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:35:30] "POST /counter HTTP/1.1" 200 -
+2022-01-19 19:35:30,705 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:35:30] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 19:35:30,718 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:35:30] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 19:37:36,751 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:38:00,680 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:38:00] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 19:38:06,741 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:38:06] "POST /counter HTTP/1.1" 200 -
+2022-01-19 19:38:06,838 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:38:06] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 19:38:06,860 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:38:06] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 19:41:25,334 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 19:42:13,578 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 19:42:13] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 20:03:56,627 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 20:09:59,212 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 20:09:59] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 20:10:52,535 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 21:57:16,201 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 21:57:16] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-19 21:57:35,624 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 21:57:58,431 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 21:57:58] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 21:58:04,515 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 21:58:04] "POST /counter HTTP/1.1" 200 -
+2022-01-19 21:58:04,651 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 21:58:04] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 21:58:04,678 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 21:58:04] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:00:21,697 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:00:21] "GET / HTTP/1.1" 200 -
+2022-01-19 22:00:21,809 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:00:21] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:00:21,829 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:00:21] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:00:26,229 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:00:26] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:01:20,670 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:01:20] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:02:01,746 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 22:04:20,785 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:04:20] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:04:46,448 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:04:46] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:04:46,690 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:04:46] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:04:46,739 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:04:46] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:06:06,084 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:06] "GET / HTTP/1.1" 200 -
+2022-01-19 22:06:06,406 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:06] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:06:06,448 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:06] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:06:13,317 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:13] "GET / HTTP/1.1" 200 -
+2022-01-19 22:06:13,447 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:13] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:06:13,459 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:06:29,804 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:06:29] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:07:51,772 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:07:51] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:08:01,500 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:08:01] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:08:01,725 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:08:01] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:08:01,743 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:08:01] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:08:27,363 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 22:08:48,637 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:08:48] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:09:20,805 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:20] "[35m[1mPOST /counter HTTP/1.1[0m" 500 -
+2022-01-19 22:09:21,114 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:21] "GET /counter?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-01-19 22:09:21,205 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:21] "GET /counter?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-01-19 22:09:21,467 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:21] "GET /counter?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-01-19 22:09:21,611 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:21] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-19 22:09:21,613 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:09:21] "GET /counter?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-01-19 22:09:36,114 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 22:12:03,436 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:12:03] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:12:24,124 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:12:24] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:12:24,416 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:12:24] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:12:24,548 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:12:24] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:13:07,792 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-19 22:18:26,931 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:18:26] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:18:40,322 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:18:40] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:18:40,591 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:18:40] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:18:40,615 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:18:40] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:20:51,779 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:20:51] "GET / HTTP/1.1" 200 -
+2022-01-19 22:20:51,916 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:20:51] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:20:52,060 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:20:52] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:20:56,548 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:20:56] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:21:38,211 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:21:38,232 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:21:38,241 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Report.url' already exists
+2022-01-19 22:21:38,255 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:21:38,277 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:21:38,284 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:21:38,291 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Report.url' already exists
+2022-01-19 22:21:38,315 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:21:38,349 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:21:38,357 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:21:38,366 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:21:38,376 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:21:38] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:21:50,016 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:21:50] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:21:50,248 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:21:50] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:21:50,292 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:21:50] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:27:28,881 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 22:34:35,398 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:34:35,403 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:34:35,419 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Report.url' already exists
+2022-01-19 22:34:35,434 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:34:35,450 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:34:35,455 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:34:35,464 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Report.url' already exists
+2022-01-19 22:34:35,479 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Jess\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:34:35,513 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:34:35,519 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:34:35,535 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:34:35,553 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:34:35] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:34:41,649 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:34:41] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:34:41,869 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:34:41] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:34:41,907 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:34:41] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:36:05,330 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:36:05] "GET / HTTP/1.1" 200 -
+2022-01-19 22:36:05,571 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:36:05] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:36:05,592 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:36:05] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:37:24,930 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:37:24] "GET / HTTP/1.1" 200 -
+2022-01-19 22:37:25,086 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:37:25] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:37:25,119 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:37:25] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:37:30,601 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:37:30] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:38:11,227 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:38:11,233 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:38:11,246 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:38:11,254 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:38:11] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:38:17,422 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:38:17] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:38:17,671 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:38:17] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:38:17,701 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:38:17] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:39:08,034 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:39:08] "GET / HTTP/1.1" 200 -
+2022-01-19 22:39:08,158 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:39:08] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:39:08,183 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:39:08] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:39:16,071 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:39:16] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:40:07,401 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-19 22:40:07,439 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-19 22:40:07,489 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-19 22:40:07,517 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:40:07] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:40:13,637 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:40:13] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:40:13,788 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:40:13] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:40:13,822 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:40:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:41:38,560 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:41:38] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:41:38,674 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:41:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:41:38,698 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:41:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:42:54,685 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:42:54] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:42:54,829 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:42:54] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:42:54,857 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:42:54] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:43:05,984 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:05] "GET / HTTP/1.1" 200 -
+2022-01-19 22:43:06,272 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:06] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:43:06,295 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:06] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:43:12,804 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:12] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-19 22:43:49,430 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:49] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:43:55,554 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:55] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:43:55,734 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:55] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:43:55,753 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:43:55] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:44:16,357 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:44:16] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-19 22:45:50,528 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 22:46:34,430 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:46:34] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:46:40,547 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:46:40] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:46:40,703 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:46:40] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:46:40,740 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:46:40] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:47:21,178 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 22:51:23,619 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:51:23] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:51:29,719 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:51:29] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:51:29,901 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:51:29] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:51:29,962 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:51:29] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:53:55,726 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:53:55] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:53:55,861 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:53:55] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:53:55,887 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:53:55] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:54:00,584 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:54:00] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-19 22:55:41,382 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-19 22:56:12,439 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:56:12] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-19 22:56:18,565 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:56:18] "POST /counter HTTP/1.1" 200 -
+2022-01-19 22:56:18,833 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:56:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-19 22:56:18,880 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:56:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-19 22:56:23,341 INFO werkzeug 127.0.0.1 - - [19/Jan/2022 22:56:23] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-20 13:22:49,025 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 13:22:49,029 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 13:22:49,031 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 13:22:49,104 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:22:49] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-20 13:23:48,680 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 13:24:19,869 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 13:24:19,872 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 13:24:19,885 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 13:24:19,898 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:24:19] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 13:24:25,973 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:24:25] "POST /counter HTTP/1.1" 200 -
+2022-01-20 13:24:26,082 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:24:26] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 13:24:26,100 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:24:26] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 13:25:02,912 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:02] "GET / HTTP/1.1" 200 -
+2022-01-20 13:25:03,007 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:03] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 13:25:03,020 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:03] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 13:25:07,462 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:07] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 13:25:33,331 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:33] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 13:25:39,409 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:39] "POST /counter HTTP/1.1" 200 -
+2022-01-20 13:25:39,540 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:39] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 13:25:39,551 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:25:39] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 13:26:58,251 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:26:58] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-20 13:27:38,085 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:27:38] "GET / HTTP/1.1" 200 -
+2022-01-20 13:27:38,230 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:27:38] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 13:27:38,255 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 13:27:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 13:28:28,842 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 20:24:40,404 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:24:40,409 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:24:40,422 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:24:40,495 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:24:40] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-01-20 20:25:26,080 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 20:28:35,350 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:28:35,356 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:28:35,367 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:28:35,373 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:28:35] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:28:41,496 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:28:41] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:28:41,682 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:28:41] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:28:41,708 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:28:41] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:33:24,554 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-20 20:34:48,783 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:34:48,787 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:34:48,797 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:34:48,808 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:34:48] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:34:55,011 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:34:55] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:34:55,207 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:34:55] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:34:55,247 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:34:55] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:36:37,119 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 20:38:36,383 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:38:36,387 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:38:36,395 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:38:36,402 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:38:36] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:38:42,538 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:38:42] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:38:42,801 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:38:42] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:38:42,995 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:38:42] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:39:24,791 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 20:40:18,228 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:40:18,243 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:40:18,251 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:40:18,270 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:40:18] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:40:24,378 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:40:24] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:40:24,614 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:40:24] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:40:24,660 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:40:24] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:42:50,816 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-20 20:43:52,172 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:43:52,182 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:43:52,201 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:43:52,209 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:43:52] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:43:58,303 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:43:58] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:43:58,453 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:43:58] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:43:58,494 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:43:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:47:24,055 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-20 20:54:11,550 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-01-20 20:54:11,555 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-01-20 20:54:11,567 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-01-20 20:54:11,590 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:54:11] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:54:17,720 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:54:17] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:54:17,907 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:54:17] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:54:17,942 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:54:17] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:54:57,367 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-01-20 20:59:04,273 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:04] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 20:59:10,381 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:10] "POST /counter HTTP/1.1" 200 -
+2022-01-20 20:59:10,537 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:59:10,570 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 20:59:18,455 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:18] "GET / HTTP/1.1" 200 -
+2022-01-20 20:59:18,720 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 20:59:18,830 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 20:59:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:00:06,293 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:06] "GET / HTTP/1.1" 200 -
+2022-01-20 21:00:06,596 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:06] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:00:06,630 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:06] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:00:11,166 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:11] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 21:00:41,407 ERROR stubs 21ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:00:41,424 ERROR stubs 21ARCHIVESTUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:00:41,439 ERROR stubs 22ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:00:41,459 ERROR stubs 22ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:00:41,485 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:00:41,509 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:00:41,529 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:00:41,554 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:00:41,568 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:41] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 21:00:47,709 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:47] "POST /counter HTTP/1.1" 200 -
+2022-01-20 21:00:47,896 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:47] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:00:47,962 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:00:47] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:08:09,815 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:08:09] "GET / HTTP/1.1" 200 -
+2022-01-20 21:08:10,121 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:08:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:08:10,165 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:08:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:14:29,054 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:14:29] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 21:15:13,196 ERROR stubs 21ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:15:13,227 ERROR stubs 21ARCHIVESTUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:15:13,248 ERROR stubs 22ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:15:13,267 ERROR stubs 22ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:15:13,385 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:15:13,399 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:15:13,421 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:15:13,436 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:15:13,450 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:13] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 21:15:19,868 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:19] "POST /counter HTTP/1.1" 200 -
+2022-01-20 21:15:20,100 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:20] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:15:20,122 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:20] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:15:44,605 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:44] "GET / HTTP/1.1" 200 -
+2022-01-20 21:15:44,767 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:44] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:15:44,800 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:44] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:15:49,701 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:15:49] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 21:32:09,866 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:32:09] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 21:32:16,041 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:32:16] "POST /counter HTTP/1.1" 200 -
+2022-01-20 21:32:16,255 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:32:16] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:32:16,313 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:32:16] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:33:15,911 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:33:15] "GET / HTTP/1.1" 200 -
+2022-01-20 21:33:16,529 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:33:16] "GET /main.css HTTP/1.1" 200 -
+2022-01-20 21:33:16,611 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:33:16] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:33:25,942 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:33:25] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 21:34:00,851 ERROR stubs 21ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:34:00,869 ERROR stubs 21ARCHIVESTUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:34:00,890 ERROR stubs 22ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:34:00,920 ERROR stubs 22ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:34:00,938 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlname 'today' is not defined
+2022-01-20 21:34:00,972 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlname 'today' is not defined
+2022-01-20 21:34:00,987 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Report.urlname 'today' is not defined
+2022-01-20 21:34:01,016 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlname 'today' is not defined
+2022-01-20 21:34:01,025 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:01] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 21:34:07,202 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:07] "POST /counter HTTP/1.1" 200 -
+2022-01-20 21:34:07,346 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:07] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:34:07,419 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:07] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:34:40,876 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:40] "GET / HTTP/1.1" 200 -
+2022-01-20 21:34:41,094 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:41] "GET /main.css HTTP/1.1" 200 -
+2022-01-20 21:34:41,184 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:41] "GET /logo/zurich.png HTTP/1.1" 200 -
+2022-01-20 21:34:45,444 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:34:45] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-20 21:35:16,374 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:35:16] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 21:35:22,493 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:35:22] "POST /counter HTTP/1.1" 200 -
+2022-01-20 21:35:22,761 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:35:22] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 21:35:22,800 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:35:22] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 21:35:40,403 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:35:40] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-20 21:36:39,929 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 21:53:31,900 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:53:31] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-20 21:53:55,696 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 21:54:16,504 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 21:54:16] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-20 22:07:34,092 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:34] "GET / HTTP/1.1" 200 -
+2022-01-20 22:07:34,351 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:34] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 22:07:34,369 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:34] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 22:07:46,144 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:46] "POST /opendialog HTTP/1.1" 200 -
+2022-01-20 22:07:51,756 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:51] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-20 22:07:57,814 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:57] "POST /counter HTTP/1.1" 200 -
+2022-01-20 22:07:57,986 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:57] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 22:07:58,006 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:07:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-20 22:08:02,007 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:08:02] "[35m[1mPOST /stubsconfirm HTTP/1.1[0m" 500 -
+2022-01-20 22:08:40,281 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-01-20 22:09:27,602 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:09:27] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-01-20 22:09:51,089 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:09:51] "GET / HTTP/1.1" 200 -
+2022-01-20 22:09:51,424 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:09:51] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-20 22:09:51,442 INFO werkzeug 127.0.0.1 - - [20/Jan/2022 22:09:51] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-27 14:16:44,439 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:16:44] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-27 14:16:50,578 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:16:50] "POST /counter HTTP/1.1" 200 -
+2022-01-27 14:16:50,846 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:16:50] "GET /main.css HTTP/1.1" 200 -
+2022-01-27 14:16:50,904 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:16:50] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-27 14:17:38,190 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:17:38] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-27 14:18:03,076 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:18:03] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-27 14:18:09,239 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:18:09] "POST /counter HTTP/1.1" 200 -
+2022-01-27 14:18:09,554 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:18:09] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-27 14:18:09,589 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:18:09] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-27 14:19:09,386 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:19:09] "GET / HTTP/1.1" 200 -
+2022-01-27 14:19:09,836 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:19:09] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-27 14:19:09,888 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:19:09] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-27 14:19:14,773 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:19:14] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-27 14:37:20,778 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:37:20] "GET / HTTP/1.1" 200 -
+2022-01-27 14:37:21,152 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:37:21] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-27 14:37:21,209 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:37:21] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-01-27 14:37:25,627 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:37:25] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-01-27 14:38:01,729 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:38:01] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-01-27 14:38:07,824 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:38:07] "POST /counter HTTP/1.1" 200 -
+2022-01-27 14:38:08,063 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:38:08] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-01-27 14:38:08,081 INFO werkzeug 127.0.0.1 - - [27/Jan/2022 14:38:08] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-03-16 15:26:00,678 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:26:00] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-03-16 15:26:06,976 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:26:06] "POST /counter HTTP/1.1" 200 -
+2022-03-16 15:26:07,357 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:26:07] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-03-16 15:26:07,460 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:26:07] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-03-16 15:27:44,468 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:27:44] "GET / HTTP/1.1" 200 -
+2022-03-16 15:27:44,774 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:27:44] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-03-16 15:27:44,904 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:27:44] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-03-16 15:28:34,285 INFO werkzeug 127.0.0.1 - - [16/Mar/2022 15:28:34] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-03-22 18:16:04,518 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:16:04] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-03-22 18:16:10,722 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:16:10] "POST /counter HTTP/1.1" 200 -
+2022-03-22 18:16:10,963 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:16:10] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-03-22 18:16:11,016 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:16:11] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-03-22 18:17:11,657 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:17:11] "GET / HTTP/1.1" 200 -
+2022-03-22 18:17:11,958 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:17:11] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-03-22 18:17:11,988 INFO werkzeug 127.0.0.1 - - [22/Mar/2022 18:17:11] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-11 17:41:29,083 ERROR stubs ARCHIVE STUBBI Launch Pad - PROD.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016 - Copy\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - PROD.url' already exists
+2022-04-11 17:41:29,091 ERROR stubs ARCHIVE STUBBI Launch Pad - STAGE.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016 - Copy\Test\Archived_File_Stubs\ARCHIVE STUBBI Launch Pad - STAGE.url' already exists
+2022-04-11 17:41:29,097 ERROR stubs ARCHIVE STUBCONFIDENTIALL Tax Resp.urlDestination path 'C:/python/zurich/stubs/Destination/Cash Assumed Reports re Itally 2016 - Copy\Test\Archived_File_Stubs\ARCHIVE STUBCONFIDENTIALL Tax Resp.url' already exists
+2022-04-11 17:41:29,104 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:41:29] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-11 17:41:35,413 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:41:35] "POST /counter HTTP/1.1" 200 -
+2022-04-11 17:41:35,661 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:41:35] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-11 17:41:35,695 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:41:35] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-11 17:44:44,142 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:44:44] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-11 17:44:50,290 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:44:50] "POST /counter HTTP/1.1" 200 -
+2022-04-11 17:44:50,547 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:44:50] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-11 17:44:50,558 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:44:50] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-11 17:45:14,696 INFO werkzeug 127.0.0.1 - - [11/Apr/2022 17:45:14] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-04-19 20:58:50,064 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 20:58:50] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-19 20:58:56,582 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 20:58:56] "POST /counter HTTP/1.1" 200 -
+2022-04-19 20:58:56,826 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 20:58:56] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-19 20:58:56,869 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 20:58:56] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-19 21:04:56,878 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:04:56] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-19 21:05:52,916 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:05:52] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-19 21:05:59,095 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:05:59] "POST /counter HTTP/1.1" 200 -
+2022-04-19 21:05:59,260 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:05:59] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-19 21:05:59,286 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:05:59] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-19 21:08:55,583 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:08:55] "GET / HTTP/1.1" 200 -
+2022-04-19 21:08:55,858 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:08:55] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-19 21:08:55,892 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:08:55] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-19 21:09:01,876 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:09:01] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-19 21:09:18,067 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:09:18] "GET / HTTP/1.1" 200 -
+2022-04-19 21:09:18,153 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:09:18] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-19 21:09:18,163 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:09:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-19 21:09:25,570 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:09:25] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-19 21:10:06,395 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:10:06] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-19 21:10:12,501 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:10:12] "POST /counter HTTP/1.1" 200 -
+2022-04-19 21:10:12,631 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:10:12] "[36mGET /main.css HTTP/1.1[0m" 304 -
+2022-04-19 21:10:12,648 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:10:12] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-19 21:12:13,983 INFO werkzeug 127.0.0.1 - - [19/Apr/2022 21:12:13] "POST /stubsconfirm HTTP/1.1" 200 -
+2022-04-27 18:20:31,672 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:31] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-27 18:20:37,979 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:37] "POST /counter HTTP/1.1" 200 -
+2022-04-27 18:20:38,091 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:38] "[33mGET /main.css HTTP/1.1[0m" 404 -
+2022-04-27 18:20:38,136 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:38] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 18:20:41,486 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:41] "GET / HTTP/1.1" 200 -
+2022-04-27 18:20:41,683 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:41] "[33mGET /main.css HTTP/1.1[0m" 404 -
+2022-04-27 18:20:41,727 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:41] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 18:20:45,867 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:45] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-27 18:20:47,867 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:47] "GET / HTTP/1.1" 200 -
+2022-04-27 18:20:47,945 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:47] "[33mGET /main.css HTTP/1.1[0m" 404 -
+2022-04-27 18:20:47,959 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:47] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 18:20:51,755 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:51] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-27 18:20:52,688 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:52] "GET / HTTP/1.1" 200 -
+2022-04-27 18:20:52,758 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:52] "[33mGET /main.css HTTP/1.1[0m" 404 -
+2022-04-27 18:20:52,774 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:20:52] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 18:21:25,025 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:21:25] "GET / HTTP/1.1" 200 -
+2022-04-27 18:21:25,075 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:21:25] "[33mGET /main.css HTTP/1.1[0m" 404 -
+2022-04-27 18:21:25,083 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 18:21:25] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 20:26:07,656 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:07] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-27 20:26:13,842 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:13] "POST /counter HTTP/1.1" 200 -
+2022-04-27 20:26:14,012 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:14,036 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:14,056 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:14,059 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-27 20:26:14,063 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-27 20:26:14,107 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:14] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,235 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "GET / HTTP/1.1" 200 -
+2022-04-27 20:26:22,414 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,437 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,445 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,456 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,468 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-27 20:26:22,468 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:22] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-27 20:26:26,880 INFO werkzeug 127.0.0.1 - - [27/Apr/2022 20:26:26] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-27 20:31:15,719 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-04-28 23:12:00,908 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:00] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-28 23:12:07,110 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "POST /counter HTTP/1.1" 200 -
+2022-04-28 23:12:07,271 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-28 23:12:07,296 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-28 23:12:07,307 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:07,314 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:07,321 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:07,324 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:07] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,058 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "GET / HTTP/1.1" 200 -
+2022-04-28 23:12:10,239 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,257 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,269 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,276 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,283 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:12:10,288 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:10] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-28 23:12:17,087 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:12:17] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-28 23:12:25,482 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-04-28 23:15:46,754 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:46] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-28 23:15:52,869 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:52] "POST /counter HTTP/1.1" 200 -
+2022-04-28 23:15:53,006 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-28 23:15:53,025 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-28 23:15:53,031 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:53,035 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:53,050 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:53,059 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:53] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,396 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "GET / HTTP/1.1" 200 -
+2022-04-28 23:15:58,601 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,614 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,629 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,637 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,639 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:15:58,664 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:15:58] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-28 23:16:03,962 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:16:03] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-28 23:23:47,094 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading
+2022-04-28 23:42:30,888 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:42:30] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-04-28 23:43:06,188 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-04-28 23:43:30,916 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:43:30] "[35m[1mPOST /ajaxmovestubs HTTP/1.1[0m" 500 -
+2022-04-28 23:44:00,727 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\stubs.py', reloading
+2022-04-28 23:44:58,269 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:44:58] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-28 23:45:04,429 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "POST /counter HTTP/1.1" 200 -
+2022-04-28 23:45:04,605 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:04,628 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:04,638 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-28 23:45:04,643 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:04,659 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-28 23:45:04,688 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "GET /logo/zurich.png HTTP/1.1" 200 -
+2022-04-28 23:45:04,820 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-04-28 23:45:09,566 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "GET / HTTP/1.1" 200 -
+2022-04-28 23:45:09,756 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:09,775 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "GET /css/main.css HTTP/1.1" 200 -
+2022-04-28 23:45:09,778 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:09,818 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-28 23:45:09,845 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "GET /css/bootstrap.min.css HTTP/1.1" 200 -
+2022-04-28 23:45:09,882 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:09] "GET /logo/zurich.png HTTP/1.1" 200 -
+2022-04-28 23:45:14,416 INFO werkzeug 127.0.0.1 - - [28/Apr/2022 23:45:14] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-29 00:04:07,190 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:07] "POST /ajaxmovestubs HTTP/1.1" 200 -
+2022-04-29 00:04:13,357 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "POST /counter HTTP/1.1" 200 -
+2022-04-29 00:04:13,465 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-29 00:04:13,473 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-29 00:04:13,479 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:13,481 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:13,501 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:13,505 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:13] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,660 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "GET / HTTP/1.1" 200 -
+2022-04-29 00:04:18,823 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /css/main.css HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,834 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,841 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /js/jquery-3.6.0.min.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,855 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /js/stubs.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,865 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /js/bootstrap.min.js HTTP/1.1[0m" 304 -
+2022-04-29 00:04:18,876 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:18] "[36mGET /logo/zurich.png HTTP/1.1[0m" 304 -
+2022-04-29 00:04:24,940 INFO werkzeug 127.0.0.1 - - [29/Apr/2022 00:04:24] "[35m[1mPOST /opendialog HTTP/1.1[0m" 500 -
+2022-04-29 00:05:00,148 INFO werkzeug  * Detected change in 'C:\\python\\stubs\\run.py', reloading

@@ -1,0 +1,75 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container center">
+    <div class="content-section">        
+    <fieldset class="form-group">
+        <legend class="border-bottom mb-4">Reports to Confirm</legend>    
+        <div class="panel panel-default">
+               <div class="panel-body">
+               <span id="success_message"></span>
+               <form method="post" id="stub_confirm_form">
+            <div class="col-md-8">
+                <table class="table table-striped">
+                  <thead>
+                    <tr>
+                      <th scope="col">#</th>
+                      <th scope="col">Action / Items</th>
+                      <th scope="col">Found</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>Selected Path</td>
+                      <td>{{ rowdata.FolderPath }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>Selected Process</td>
+                      <td>{{ rowdata.optProc }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Number of Archived Stubs Folders </td>
+                      <td>{{ rowdata.Archived_Stubs_Folders }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Number of Archived Stubs Files </td>
+                      <td>{{ rowdata.Stub_Files }}</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Number of Stale Data - Read Me Files  </td>
+                      <td>{{ rowdata.ReadMe_Files }}</td>
+                    </tr>
+                  </tbody>
+                </table>
+                <input type="hidden" name="folderPath" value="{{rowdata.FolderPath}}">
+                <input type="hidden" name="optProc" value="{{rowdata.optProc}}">
+                <input type="hidden" name="Archived_Stubs_Folders" value="{{rowdata.Archived_Stubs_Folders}}">
+                <input type="hidden" name="Stub_Files" value="{{rowdata.Stub_Files}}">
+                <input type="hidden" name="ReadMe_Files" value="{{rowdata.ReadMe_Files}}">
+                
+                   </div>
+                
+                   <div class="clearfix"></div>
+                   <div class="form-group col-md-4" align="center">
+                       <input type="submit" name="Confirm" id="Confirm" class="btn btn-success" value="Confirm Delete/Separate" />
+                       <a href="{{ url_for('index') }}" class="btn btn-primary" id="Cancel">Cancel</a>
+                   </div>
+               </form>
+                   <div class="clearfix"></div>
+               <div class="form-group" id="process" style="display:none;">
+                  <div class="progress">
+                   <div class="progress-bar progress-bar-striped active bg-success" role="progressbar" aria-valuemin="0" aria-valuemax="100" style=""></div>
+                  </div>
+               </div>
+                   
+              </div>
+        </div> 
+
+    </fieldset>
+    </div>
+</div>
+{% endblock content %}
