@@ -153,9 +153,11 @@ def ajaxmovestubs():
             FileData =  cls.getListOfFiles(folderPath, optProc)
         end = time.time()
         processTime = end-start 
+        s=round(processTime,1)
+        print(s)
         # FileData =  getStubsStale(folderPath)
         CountData = cls.getCount(FileData, folderPath, optProc)
-        CountData.update({'ptime' : processTime, 'noSubFolders' : noSubFolders})
+        CountData.update({'ptime' : s, 'noSubFolders' : noSubFolders})
         
         msg = f'{CountData}'
     return jsonify(msg)
